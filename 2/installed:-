@@ -1,0 +1,9 @@
+installed:-
+sudo npm i -g gulp 
+sudo npm i -g webpack 
+sudo npm i -g turbo-cli
+
+
+
+
+turbo;-	
